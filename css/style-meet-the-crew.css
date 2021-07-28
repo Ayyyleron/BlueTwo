@@ -1,0 +1,29 @@
+a {
+  text-decoration: none;
+}
+h1{
+  margin-left: 1em;
+  background: url(../images/Logo.png) no-repeat;
+  background-size: 150px;
+  text-indent: -9999px;
+  width: 150px;
+  height: 72px;
+  display: inline;
+}
+li{
+  list-style-type: none;
+  display: inline;
+}
+nav{
+  font-family: 'Exo 2', sans-serif;
+}
+blockquote{
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+p{
+  font-family: 'Roboto Mono', sans-serif;
+  letter-spacing: -0.05em;
+}
+h2{
+  font-family: 'Montserrat Alternates', sans-serif;
+}
